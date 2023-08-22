@@ -12,4 +12,3 @@ This web application allows you to find the right car. It is also possible to ca
 - Redux
 - Intl(i8n)
 - React Hook Form
-- Postman
